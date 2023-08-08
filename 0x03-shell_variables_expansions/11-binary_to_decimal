@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((2÷$BINARY))
+echo $((2%$BINARY))
